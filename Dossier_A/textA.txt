@@ -1,1 +1,2 @@
 "labo1, gestion de version, Maxime Simard A" 
+"erreur inject‚e" 
