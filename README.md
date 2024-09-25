@@ -32,4 +32,4 @@ git push origin <branch_name>: Permet de pousser les changement à git.
 
 git pull: Permet d’aller chercher les changements du repository git.
 
-git reset --hard [<commit>]: Permet de retourner à un ancien commit et d'ignorer tous ceux qui le suive.
+git reset --hard <commit>: Permet de retourner à un ancien commit et d'ignorer tous ceux qui le suive.
