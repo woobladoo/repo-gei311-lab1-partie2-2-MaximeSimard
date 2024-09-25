@@ -1,0 +1,10 @@
+Si le membre A veut rendre son projet accessible au membre B via github. Il doit créer un repository sur github.
+
+Il peut y arriver de cette façon:
+
+1. git init -b main: Il doit initialiser le repository sur sa branche initiale.
+2. git add . : Il doit ajouter tous les fichiers
+3. git commit -m "Premier commit": Il doit commit ses changements
+4. git push origin main : Il doit push son projet à github.
+
+et voilà, il peut maintenant partager son projet au membre B.
