@@ -1,0 +1,3 @@
+Pour résoudre le problème, j'ai utilisé la commande git reset --hard <commit> pour retourner à un ancien commit et ignorer tous ceux qui le suivait.
+
+Ceci m'a permi d'effacé l'erreur qui avait été injecté et de continuer mes manipulations par la suite
